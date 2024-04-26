@@ -4,7 +4,7 @@ import csv
 
 base_url = "https://gptstore.ai/_next/data/U693FM1yXxTSYOQ9zSNbx/en/gpts.json?lang=all&page="
 
-for page_num in range(1, 11):
+for page_num in range(1, 101):
     url = base_url + str(page_num)
     response = requests.get(url)
 
