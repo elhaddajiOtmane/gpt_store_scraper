@@ -1,0 +1,32 @@
+[
+    {
+      "ID": "23317",
+      "Title": "AskYourPDF",
+      "Content": "<div class=\"tool-main-content\">\r\n<div class=\"w-layout-grid grid-4\">\r\n<div class=\"cell-2\"><a class=\"link-block-11 w-inline-block\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\"><img class=\"image-3\" src=\"{{image_src}}\" /></a></div>\r\n<div class=\"cell-2\">\r\n<h3>Description:</h3>\r\n<div class=\"rich-text-block\">{{description}}</div>\r\n<div class=\"div-block-17\">\r\n<div class=\"text-block\"><strong class=\"bold-text\">Pricing:</strong></div>\r\n<div class=\"text-block-2\" style=\"background-color: #5a0b4d; color: hsla(0, 0.00%, 100.00%, 1.00);\"><a href=\"https://ai-hunter.io/tag/paid/\">Paid</a></div>\r\n</div>\r\n<div class=\"tags-block\">\r\n<div class=\"text-block-16\">Categories:</div>\r\n&nbsp;\r\n<div class=\"collection-list-wrapper-8\">\r\n<div class=\"collection-list-7\">\r\n<div class=\"collection-item-4\">\r\n<div class=\"text-block-18\"><a href=\"/gpts/\">GPTs</a></div>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"div-block-6\"><a class=\"link-block-2\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\">{{title}}</a></div>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n",
+      "Excerpt": "",
+      "Date": "2024-04-23 16:09:06",
+      "Post Type": "post",
+      "Permalink": "https://ai-hunter.io/askyourpdf/"
+    },
+    {
+      "ID": "23405",
+      "Title": "Navigator Tools",
+      "Content": "<div class=\"tool-main-content\">\r\n<div class=\"w-layout-grid grid-4\">\r\n<div class=\"cell-2\"><a class=\"link-block-11 w-inline-block\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\"><img class=\"image-3\" src=\"{{image_src}}\" alt=\"{{title}}\" /></a></div>\r\n<div class=\"cell-2\">\r\n<h3>Description:</h3>\r\n<div class=\"rich-text-block\">{{description}}</div>\r\n<div class=\"div-block-17\">\r\n<div class=\"text-block\"><strong class=\"bold-text\">Pricing:</strong></div>\r\n<div class=\"text-block-2\" style=\"background-color: #5a0b4d; color: hsla(0, 0.00%, 100.00%, 1.00);\"><a href=\"https://ai-hunter.io/tag/freemium/\">Freemium</a></div>\r\n</div>\r\n<div class=\"tags-block\">\r\n<div class=\"text-block-16\">Categories:</div>\r\n&nbsp;\r\n<div class=\"collection-list-wrapper-8\">\r\n<div class=\"collection-list-7\">\r\n<div class=\"collection-item-4\">\r\n<div class=\"text-block-18\"><a href=\"/gpts/\">GPTs</a></div>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"div-block-6\"><a class=\"link-block-2\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\">\r\n{{title}}</a></div>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n",
+      "Excerpt": "",
+      "Date": "2024-04-24 08:56:08",
+      "Post Type": "post",
+      "Permalink": "https://ai-hunter.io/navigator-tools/"
+    },
+    {
+      "ID": "23414",
+      "Title": "Canva",
+      "Content": "<div class=\"tool-main-content\">\r\n<div class=\"w-layout-grid grid-4\">\r\n<div class=\"cell-2\"><a class=\"link-block-11 w-inline-block\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\"><img class=\"image-3\" src=\"{{image_src}}\" /></a></div>\r\n<div class=\"cell-2\">\r\n<h3>Description:</h3>\r\n<div class=\"rich-text-block\">{{description}}</div>\r\n<div class=\"div-block-17\">\r\n<div class=\"text-block\"><strong class=\"bold-text\">Pricing:</strong></div>\r\n<div class=\"text-block-2\" style=\"background-color: #5a0b4d; color: hsla(0, 0.00%, 100.00%, 1.00);\"><a href=\"https://ai-hunter.io/tag/freemium/\">Freemium</a></div>\r\n</div>\r\n<div class=\"tags-block\">\r\n<div class=\"text-block-16\">Categories:</div>\r\n&nbsp;\r\n<div class=\"collection-list-wrapper-8\">\r\n<div class=\"collection-list-7\">\r\n<div class=\"collection-item-4\">\r\n<div class=\"text-block-18\"><a href=\"/gpts/\">GPTs</a></div>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"div-block-6\"><a class=\"link-block-2\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\">\r\n{{title}}</a></div>\r\n&nbsp;\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n",
+      "Excerpt": "",
+      "Date": "2024-04-24 09:05:45",
+      "Post Type": "post",
+      "Permalink": "https://ai-hunter.io/canva/"
+    },
+    {
+      "ID": "23420",
+      "Title": "Video Summarizer",
+      "Content": "<div class=\"tool-main-content\">\r\n<div class=\"w-layout-grid grid-4\">\r\n<div class=\"cell-2\"><a class=\"link-block-11 w-inline-block\" href=\"{{link}}\" target=\"_blank\" rel=\"noopener\"><img class=\"image-3\" src=\"{{image_src}}\" /></a></div>\r\n<div class=\"cell-2\">\r\n<h3>Description:</h3>\r\n<div class=\"rich-text-block\">{{description}}</div>\r\n<div class=\"div-block-17\">\r\n<div class=\"text-block\"><strong class=\"bold-text\">Pricing:</strong></div>\r\n<div class=\"text-block-2\" style=\"background-color: #5a0b4d; color: hsla(0, 0.00%, 100.00%, 1.00);\"><a href=\"https://ai-hunter.io/tag/freemium/\">Freemium</a></div>\r\n</div>\r\n<div class=\"tags-block\">\r\n<div class=\"text-block-16\">Categories:</div
